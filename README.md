@@ -27,11 +27,10 @@ import autolib.csv
 Python 3 has been used to analyse the dataset obtained from the Autolib electric car company.
 Pandas and numpy were mainly used in the analysis
 
-##Support and contact details
-For further inquiries feel free to reach me on cpaulineg@gmail.company
-
-##License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Support and contact details
+For further inquiries feel free to reach me on cpaulineg@gmail.com
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) open source licence was used.
+
+
